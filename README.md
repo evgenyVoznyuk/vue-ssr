@@ -1,4 +1,4 @@
-# vue-srr-simple
+# vue-ssr-simple
 
 ## Project setup
 ```
